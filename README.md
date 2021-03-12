@@ -1,5 +1,5 @@
-# Breast Cancer Decision Tree
-### Data Mining and Predictive Analysis: Decision Tree of Cell in Breast Cancer
+# Breast Cancer Decision Tree and Artificial Neural Network
+### Data Mining and Predictive Analysis
 
 #### Problem Description:
 Breast cancer is a type of cancer that originates in the breast. The cells are known to grow to form tumors/lumps. It is necessary to understand that tumors in the breast are malignant and benign. As we all know, many tumors all over the world are benign [1]. However, among other cancers, this cancer is the main cause of death. \
@@ -10,6 +10,10 @@ In this analysis, I want to conduct an analysis to predict the existence of brea
 #### Data Description:
 Sample size of observation: 699 samples. \
 The data has 11 variables, including 1 character variable (Ientifier), 9 predictor variables in cell form (𝑥) and 1 response variable (𝑦).
+
+#### Analysis:
+> Decision Tree
+> Neural Network
 
 #### References:
 [1] Team (2019) What Is Breast Cancer?, Available:https://www.cancer.org/cancer/breastcancer/about/what-is-breast-cancer.html (Accessed: 4th November 2020). \
@@ -24,3 +28,5 @@ Google. \
 [5] Espina, G.M. (2019) Data Preprocessing — Machine Learning in
 R, Available: https://levelup.gitconnected.com/machine-learning-in-r-4ac6d455bb65
 (Accessed: 4th November 2020).
+
+Build with ♡ by afifadayu
