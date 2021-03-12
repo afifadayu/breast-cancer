@@ -8,14 +8,14 @@ head(cancerData)
 summary(cancerData)
 ```
 2. Clean the dataset
-> Completing missing data
-> Calling the library
-> Delete Variable 
-> Encoding Categorical Data
-> Data Visualization
-> Data Normalization (Only for Neural Network)
-> Check Variable Type
-> Create Train and Test Set
+> Completing missing data \
+> Calling the library \
+> Delete Variable \
+> Encoding Categorical Data \
+> Data Visualization \
+> Data Normalization (Only for Neural Network) \
+> Check Variable Type \
+> Create Train and Test Set 
 
 3. Build the model
 

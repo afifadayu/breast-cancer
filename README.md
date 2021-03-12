@@ -12,7 +12,7 @@ Sample size of observation: 699 samples. \
 The data has 11 variables, including 1 character variable (Ientifier), 9 predictor variables in cell form (𝑥) and 1 response variable (𝑦).
 
 #### Analysis:
-> Decision Tree
+> Decision Tree \
 > Neural Network
 
 #### References:
